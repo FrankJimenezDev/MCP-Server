@@ -1,0 +1,12 @@
+{
+	"servers": {
+		"mpc01": {
+			"type": "stdio",
+			"command": "npm",
+			"args": [
+				"run",
+				"start:dev"
+			]
+		}
+	}
+}
